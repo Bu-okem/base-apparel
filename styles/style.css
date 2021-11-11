@@ -4,6 +4,7 @@
   font-family: Josefin Sans, sans-serif;
   font-size: 16px;
   box-sizing: border-box;
+  -webkit-appearance: none;
 }
 
 :root {
@@ -113,7 +114,7 @@ main button {
   border-style: none;
   box-shadow: -6px 9px 14px 6px hsl(0deg 54% 82% / 33%);
   position: relative;
-  right: 36px;
+  right: 37px;
 }
 
 main button img {
